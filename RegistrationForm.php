@@ -3,7 +3,6 @@
     <head>
         <title>Booking Form</title>
         <style>
-            
             .container{
                 border: 5px solid rgb(117, 36, 36);
                 width: 600px;
