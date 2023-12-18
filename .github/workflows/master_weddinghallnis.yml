@@ -63,4 +63,4 @@ jobs:
           app-name: 'WeddingHallNis'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A47DDA37977E45CF86E2660B87F6D8D3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB629872BE3B4A7284F7D13EB46611C8 }}
